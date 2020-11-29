@@ -1,8 +1,6 @@
 # UltraSonic  
 
 ## Random Sonic Pi Projects  
-
-_________________________________
   
 Ramdom ambient compositions making use of [Sonic Pi](https://sonic-pi.net/) 
 
